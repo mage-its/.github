@@ -1,3 +1,3 @@
 # .github
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/mage-its/.github/blob/main/github-metrics.svg)
