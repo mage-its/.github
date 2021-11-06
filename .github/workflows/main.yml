@@ -17,3 +17,4 @@ jobs:
           user: mage-its
           plugin_languages: yes
           plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
