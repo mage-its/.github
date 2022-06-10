@@ -122,7 +122,7 @@
                     <rect mask="url(#languages-bar)" x="382.64061041660773" y="0" width="42.45829739042716" height="8" fill="#f7523f"/>
                     <rect mask="url(#languages-bar)" x="425.0989078070349" y="0" width="29.80280602143847" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="454.90171382847336" y="0" width="3.9802938597731705" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.8820076882465" y="0" width="0.7891471278671833" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="458.8820076882465" y="0" width="0.7891471278671833" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="459.6711548161137" y="0" width="0.19772722987432945" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="459.8688820459881" y="0" width="0.1311179540119354" height="8" fill="#384d54"/>
                 </svg>
@@ -205,7 +205,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -230,7 +230,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 10 Jun 2022, 06:13:38  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 12:20:58  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
